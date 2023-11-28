@@ -1,0 +1,7 @@
+#Tue Nov 28 13:54:23 CET 2023
+base.0=/Users/devmediaworks/Desktop/flavours_example/build/app/intermediates/dex/stagingDebug/mergeDexStagingDebug/classes.dex
+base.1=/Users/devmediaworks/Desktop/flavours_example/build/app/intermediates/dex/stagingDebug/mergeDexStagingDebug/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
